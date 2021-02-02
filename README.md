@@ -1,2 +1,2 @@
-# Jupiternotebook
-A repo for Jupiter Notebook projects
+# Jupiter Notebook
+*A repo for Jupiter Notebook projects*
